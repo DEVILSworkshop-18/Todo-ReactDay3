@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+body{
+    background-color: #f1f7f7;
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.checkerTodo{
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
